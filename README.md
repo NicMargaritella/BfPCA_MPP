@@ -1,4 +1,4 @@
 # BfPCA_MPP
-Bayesian functional PCA with Multilevel Partition Priors
+A Bayesian functional data model with Multilevel Partition Priors
 
 See paper at ...
